@@ -1,4 +1,1 @@
-./newvenv
-./idea
-.xml
-.iml
+.idea/
