@@ -1,8 +1,9 @@
 def wrapper(func):
+
     def inner(*args, **kwargs):
         print("Запуск функциию!")
         return func(*args, **kwargs)
-    print("Окончание!")
+
     return inner
 
 
