@@ -6,5 +6,5 @@ def adv_deco(my_class):
 
 
 @adv_deco
-class MyClass():
+class MyClass:
     pass
